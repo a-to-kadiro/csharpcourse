@@ -9,6 +9,7 @@ namespace ConsoleApp2
     class Program
     {
         static void Main(string[] args)
+            //ca ma promi programe
         {
             Console.WriteLine("  halo word");
             Console.ReadKey();
